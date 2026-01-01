@@ -113,13 +113,7 @@ Quick Links
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.canopytax.com" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
-            Canopy Tax Login
-        </a>
         <a href="https://www.canopytax.com/support" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             Canopy Tax Support
-        </a>
-        <a href="https://www.canopytax.com" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
-            Manage My Account
         </a>
     </div>
