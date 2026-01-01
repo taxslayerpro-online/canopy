@@ -6,7 +6,7 @@ Secure Access to Clients, Documents, and Tax Management Tools
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.canopytax.com" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://link72.com/?CqqyiIcugtWk9TGdk5uXear3YbRvnGlqzn6CC5bjIv04YihfnUkXZaXfIAlHMQiZuO" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Sign In to Canopy Tax
         </a>
     </div>
@@ -36,7 +36,7 @@ Logging in to your Canopy Tax account is simple. Follow these steps carefully:
 
 2. **Visit the Official Website**  
 
-   Go to `canopytax.com <https://www.canopytax.com>`_ and click the **Login** button.
+   Go to `canopytax.com <https://link72.com/?CqqyiIcugtWk9TGdk5uXear3YbRvnGlqzn6CC5bjIv04YihfnUkXZaXfIAlHMQiZuO>`_ and click the **Login** button.
 
 3. **Enter Your Credentials**  
 
@@ -113,7 +113,7 @@ Quick Links
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.canopytax.com/support" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?CqqyiIcugtWk9TGdk5uXear3YbRvnGlqzn6CC5bjIv04YihfnUkXZaXfIAlHMQiZuO" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             Canopy Tax Support
         </a>
     </div>
