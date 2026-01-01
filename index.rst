@@ -107,8 +107,7 @@ Conclusion
 
 Signing in to your Canopy Tax account is quick and straightforward when you follow the correct steps. By using the official **Canopytax.com login** page and keeping your credentials secure, you can access all the tools and features that make tax management easier, faster, and more efficient.
 
-Quick Links
------------
+
 
 .. raw:: html
 
